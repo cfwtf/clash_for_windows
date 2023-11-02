@@ -1,2 +1,5 @@
 # clash_for_windows
-Fndroid/clash_for_windows_pkg/releases 最后备份文件
+Fndroid/clash_for_windows_pkg/releases 最后备份文件，文件未进行任何修改，可以进行md5比对。
+
+
+此处只上传了windows版本，获取其他版本：https://archive.org/download/clash_for_windows_pkg
